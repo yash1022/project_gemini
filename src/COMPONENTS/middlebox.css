@@ -1,0 +1,26 @@
+.greeting-box
+{
+    height: 400px;
+   
+    width:1000px;
+    margin-top: 60px;
+}
+
+#upper-line
+{
+    font-family:"Poppins", sans-serif;
+    font-size:80px;
+    color: white;
+    background: linear-gradient(to right, #4285f4, #d96570, #9b72cb); /* Updated gradient colors */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+#lower-line
+{
+    font-family:"Poppins", sans-serif;
+    font-size:70px;
+    color:gray;
+    margin-top:-25px;
+}

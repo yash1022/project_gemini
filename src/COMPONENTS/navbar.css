@@ -1,0 +1,93 @@
+
+.arrow
+{
+    margin-left:0px;
+    background-color:transparent ;
+    border-color: transparent;
+    width: 50px;
+    border-radius:50px;
+}
+
+.arrow:hover
+{
+    background-color: rgb(76, 74, 74);
+    border-color: transparent;
+}
+
+.title
+{
+   margin-right:89%;
+   font-size:30px;
+   font-family: "Poppins", sans-serif;
+
+ 
+
+}
+
+
+.account
+{
+    height:60px;
+    width:60px;
+    background-color: transparent;
+    border-color: transparent;
+    border-radius: 50px;
+
+}
+
+.offcanvas
+{
+    background-color:#1f1e1e;
+    
+}
+
+
+.new-button
+{
+    background-color: #3d3a3a;
+    border: none;
+    border-radius: 25px;
+    width:140px;
+    height:50px;
+}
+
+
+
+
+#new
+{
+    text-align: center;
+    margin-top: 11px;
+    margin-left: 12px;
+    color:gray;
+}
+
+
+.recent-container
+{
+
+    margin-top:40px;
+}
+
+#recent
+{
+    font-family:"Poppins", sans-serif;
+    font-size:larger;
+    margin-left:-10px
+}
+
+.row 
+{
+    margin-top:15px;
+    border-radius: 25px;
+    height: 30px;
+    align-items: center;
+    
+
+}
+
+.row:hover
+{
+    background-color:#3d3a3a;
+}
+
