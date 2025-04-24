@@ -33,7 +33,7 @@ function App() {
     if (containerRef.current) {
       containerRef.current.scrollTop = containerRef.current.scrollHeight;
     }
-  }, [Message, Loading]);
+  }, [Message,Loading]);
 
 
  
